@@ -1,2 +1,2 @@
 # ChessJS ♟️
-Chess game in JavaSprint
+Chess game in JavaScript
