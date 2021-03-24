@@ -1,6 +1,3 @@
-// function init(){
-//     console.log("init() called");
-// }
 var chessBoard = document.getElementById("chessBoard");
 
 for (var i=0; i<8; i++){
